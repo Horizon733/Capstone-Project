@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "834424773309",
+    "firebase_url": "https://money-saver-8963c.firebaseio.com",
+    "project_id": "money-saver-8963c",
+    "storage_bucket": "money-saver-8963c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834424773309:android:ac0f55fb676d0ff8fdf5d4",
+        "android_client_info": {
+          "package_name": "com.example.moneysaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834424773309-mk9g9kn1fg6tg12p26ev4iv9ejrsv5sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLws1DXYGkX8jlUYbcbv4y3wGWWj_UiI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834424773309-mk9g9kn1fg6tg12p26ev4iv9ejrsv5sm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Money Saver</string>
+    <string name="add_entry">Add Entry</string>
+    <string name="salary">Salary</string>
+    <string name="action_delete_all_entries">Delete All Entries</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+
+    <string name="action_add">add salary</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Money Saver</string>
+    <string name="nav_header_subtitle">Save your money by adding your expenses and salary</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="menu_home">Home</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="permission_given">Permission Provided</string>
+    <string name="add_widget">Add widget</string>
+</resources>
